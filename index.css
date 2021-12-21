@@ -1,0 +1,17 @@
+@import url(estilo/reset.css);
+@import url(estilo/header.css);
+@import url(estilo/hours.css);
+@import url(estilo/main.css);
+@import url(estilo/minute.css);
+@import url(estilo/resetButton.css);
+@import url(estilo/secunds.css);
+@import url(estilo/startButton.css);
+@import url(estilo/stopButton.css);
+@import url(estilo/title.css);
+
+
+@import url(estilo/default.css);
+
+
+@import url(estilo/cronometroDisplay.css);
+@import url(estilo/cronometroOptions.css);

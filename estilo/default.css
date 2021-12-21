@@ -1,0 +1,99 @@
+/* --display */
+#cronometroOption,
+#cronometroDisplay,
+main,
+body
+{display: flex}
+
+
+
+/* --direction */
+main,
+body
+{flex-direction: column}
+
+
+
+
+/* --width */
+#horas,
+#minutos,
+#segundos{width:50px}
+
+
+
+
+#reiniciar,
+#pausar,
+#iniciar
+{width: 70px}
+
+
+
+
+
+/* --height */
+#reiniciar,
+#pausar,
+#iniciar,
+#horas,
+#minutos,
+#segundos
+{height:50px}
+
+
+
+
+/* --align */
+#cronometroOption,
+#cronometroDisplay
+{justify-content: center}
+
+
+
+main,
+body
+{align-items: center}
+
+
+
+
+main
+{justify-content:center}
+
+
+
+
+/* --text */
+#cronometroHeader>h1,
+#horas,
+#minutos,
+#segundos{
+    text-align: center;
+}
+
+
+/* --border radius */
+
+#horas,
+#minutos,
+#segundos{
+    border-radius: 50%;
+}
+
+
+
+
+/* --margin */
+#reiniciar,
+#pausar,
+#iniciar,
+#horas,
+#minutos,
+#segundos{
+    margin: 0.5em;
+}
+
+
+
+/* --font */
